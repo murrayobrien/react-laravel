@@ -1,11 +1,11 @@
 #### Laravel App with React.js
 
-##### create-project laravel/laravel
+##### 1. create-project laravel/laravel
 
-## composer require laravel/ui
+##### 2. composer require laravel/ui
 
-## php artisan ui react
+##### 3. php artisan ui react
 
-## npm install
+##### 4. npm install
 
-## Setup project/ app files for React
+##### 5. Setup project/ app files for React
