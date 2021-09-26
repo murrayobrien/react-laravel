@@ -1,6 +1,6 @@
 #### Laravel App with React.js
 
-## create-project laravel/laravel
+##### create-project laravel/laravel
 
 ## composer require laravel/ui
 
